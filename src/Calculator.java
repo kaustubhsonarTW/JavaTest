@@ -12,6 +12,7 @@ public class Calculator {
         return first*second;
     }
     public int Div(int first, int second){
+
         return first/second;
     }
 }
